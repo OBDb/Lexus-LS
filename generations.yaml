@@ -1,6 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Lexus_LS"
+
 generations:
   - name: "First Generation (XF10)"
-    start_year: 1990
+    start_year: 1989
     end_year: 1994
     description: "The original Lexus LS 400 revolutionized the luxury sedan market, establishing the Lexus brand with its exceptional quality, refinement, and value. Developed under the top-secret F1 project ('Flagship One'), it featured a silky-smooth 4.0-liter V8 producing 250 horsepower, paired with a four-speed automatic transmission. The exterior design was intentionally conservative but elegant, with excellent aerodynamics for its time. The interior set new standards for noise isolation (famously demonstrated in the 'champagne glass' commercial), material quality, and attention to detail. Advanced features included a power-adjustable steering wheel, memory seats, and an electrochromic rearview mirror. The engineering was obsessive, with 1,400 engineers working for nearly five years to develop a vehicle that matched or exceeded established European luxury sedans in every measurable metric. The first-generation LS established Lexus's reputation for exceptional quality, reliability, and customer service, fundamentally changing the luxury car market."
 
